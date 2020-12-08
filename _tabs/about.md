@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fas fa-kiss
-order: 6
+order: 4
 
 # The About page
 # v2.0
