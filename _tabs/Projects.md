@@ -1,0 +1,8 @@
+---
+title: Projects
+icon: fas fa-info
+order: 5
+---
+
+This will be where I put all the things I've put my heart into.
+
