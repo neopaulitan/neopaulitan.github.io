@@ -15,6 +15,6 @@ I am currently set to pursue a masters program in chemistry at Postech in 2021.
 I graduated with a BSc from UBCO in 2015 with a chemistry major and a data science minor.
 There's a lot of anxiety around the future and such, so here's my [transcript] from my undergrad years and here's my [current CV].
 
-[transcript]: /_tabs/docs/undergradtranscript.pdf
-[current CV]: /_tabs/docs/CV.pdf
+[transcript]: ../docs/undergradtranscript.pdf
+[current CV]: ../docs/CV.pdf
 
